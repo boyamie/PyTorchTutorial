@@ -1,2 +1,2 @@
 # PyTorchTutorial
-study with pytorch manual
+study with pytorch tutorial
