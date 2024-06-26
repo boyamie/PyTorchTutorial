@@ -27,3 +27,10 @@ about: Rogistic Regression
 - [x] Computing
 - [x] Evaluation
 - [x] Higher Implementation
+
+### Day5
+about: Softmax Classification
+- [x] Softmax
+- [x] Cross Entropy
+- [x] Low&Higher Implementation
+- [x] Training Example 
