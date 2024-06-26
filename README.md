@@ -19,3 +19,5 @@ about: Multivariate Linear Regression
 - [x] Naive Data Representation
 - [x] Matrix Data Representation
 - [x] Multivariate Linear Regression
+- [x] PyTorch Dataset and DataLoader
+- [x] Minibatch Gradient Descent
