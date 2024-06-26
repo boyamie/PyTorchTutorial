@@ -13,3 +13,9 @@ about: linear regression
 - [x] Hypothesis
 - [x] Compute loss
 - [x] Gradient descent
+
+### Day3
+about: Multivariate Linear Regression
+- [x] Naive Data Representation
+- [x] Matrix Data Representation
+- [x] Multivariate Linear Regression
