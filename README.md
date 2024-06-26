@@ -21,3 +21,9 @@ about: Multivariate Linear Regression
 - [x] Multivariate Linear Regression
 - [x] PyTorch Dataset and DataLoader
 - [x] Minibatch Gradient Descent
+
+### Day4
+about: Rogistic Regression
+- [x] Computing
+- [x] Evaluation
+- [x] Higher Implementation
