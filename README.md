@@ -33,4 +33,10 @@ about: Softmax Classification
 - [x] Softmax
 - [x] Cross Entropy
 - [x] Low&Higher Implementation
-- [x] Training Example 
+- [x] Training Example
+
+### Day6
+about: Reminder
+- [x] Training and Test Dataset
+- [x] Learning Rate
+- [x] Data Preprocessing
