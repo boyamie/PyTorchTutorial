@@ -40,3 +40,9 @@ about: Reminder
 - [x] Training and Test Dataset
 - [x] Learning Rate
 - [x] Data Preprocessing
+
+### Day7
+about: Perceptron
+- [x] Multi Layer Perceptron
+- [x] Backpropagation
+- [x] Code: xor-nn-wide-deep
