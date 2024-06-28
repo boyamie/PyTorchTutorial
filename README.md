@@ -46,3 +46,13 @@ about: Perceptron
 - [x] Multi Layer Perceptron
 - [x] Backpropagation
 - [x] Code: xor-nn-wide-deep
+
+### Day9
+about: NeuralNetwork
+- [x] ReLU
+- [x] Weight Initialization
+- [x] Dropout
+- [x] Batch Normalization
+
+
+
