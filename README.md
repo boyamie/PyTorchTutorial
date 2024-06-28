@@ -47,7 +47,7 @@ about: Perceptron
 - [x] Backpropagation
 - [x] Code: xor-nn-wide-deep
 
-### Day9
+### Day8
 about: NeuralNetwork
 - [x] ReLU
 - [x] Weight Initialization
