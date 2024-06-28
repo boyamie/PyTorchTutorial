@@ -54,5 +54,14 @@ about: NeuralNetwork
 - [x] Dropout
 - [x] Batch Normalization
 
+### Day9
+about: CNN
+- [ ] CNN
+- [ ] Deep CNN
+- [ ] NN Dropout
 
-
+### Day10
+about: RNN
+- [ ] Long Char
+- [ ] Char Seq RNN
+- [ ] Stock Prediction
