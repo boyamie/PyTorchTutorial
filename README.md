@@ -56,7 +56,7 @@ about: NeuralNetwork
 
 ### Day9
 about: CNN
-- [ ] CNN
+- [x] CNN
 - [ ] Deep CNN
 - [ ] NN Dropout
 
