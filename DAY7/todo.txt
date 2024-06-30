@@ -1,0 +1,4 @@
+about: Perceptron
+- Multi Layer Perceptron
+- Backpropagation
+- Code: xor-nn-wide-deep
