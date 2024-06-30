@@ -1,1 +1,5 @@
-
+about: NeuralNetwork
+- ReLU
+- Weight Initialization
+- Dropout
+- Batch Normalization
