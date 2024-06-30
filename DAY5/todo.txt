@@ -1,0 +1,5 @@
+about: Softmax Classification
+- Softmax
+- Cross Entropy
+- Low&Higher Implementation
+- Training Example
