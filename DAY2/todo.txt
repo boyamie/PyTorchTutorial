@@ -1,0 +1,5 @@
+about: linear regression
+- Data definition
+- Hypothesis
+- Compute loss
+- Gradient descent
