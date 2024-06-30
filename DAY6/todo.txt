@@ -1,0 +1,4 @@
+about: Reminder
+- Training and Test Dataset
+- Learning Rate
+- Data Preprocessing
