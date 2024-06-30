@@ -1,0 +1,4 @@
+about: Rogistic Regression
+- Computing
+- Evaluation
+- Higher Implementation
