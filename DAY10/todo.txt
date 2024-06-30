@@ -1,0 +1,4 @@
+about: RNN
+- Long Char
+- Char Seq RNN
+- Stock Prediction
