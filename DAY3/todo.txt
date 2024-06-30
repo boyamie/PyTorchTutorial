@@ -1,0 +1,7 @@
+Day3
+about: Multivariate Linear Regression
+- Naive Data Representation
+- Matrix Data Representation
+- Multivariate Linear Regression
+- PyTorch Dataset and DataLoader
+- Minibatch Gradient Descent
